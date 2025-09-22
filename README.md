@@ -1,11 +1,11 @@
-## Oii! Me chamo Daniel 👾
+## Hi! I'm Daniel 👾
 
 
--🎓 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e programação
+-🎓 Systems Analysis and Development Student | Passionate about technology and programming
 
--🚀 Em formação como desenvolvedor | ADS | Foco em Cyber security e Front-End
+-🚀 Training as a pentester | ADS | Focus on Cyber ​​Security and Front-End
 
--💻 Estudante de ADS | Aprendendo a transformar ideias em código
+-💻 ADS Student | Learning to turn ideas into code
 
 
 <div>
